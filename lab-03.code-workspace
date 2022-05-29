@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://wsl+ubuntu-20.04/home/angellus/semb1-workspace/lab-03"
+		}
+	],
+	"remoteAuthority": "wsl+ubuntu-20.04",
+	"settings": {}
+}
