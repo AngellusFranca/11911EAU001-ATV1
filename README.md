@@ -1,5 +1,8 @@
 # 11911EAU001-ATV1
 
+Nome: Angellus Uriãh de Freitas França
+Matrícula: 11911EAU001
+
 Para realizar a atividade de laboratório de Sistemas Embarcados 1 foram seguidos os roteiros disponibilizados pelo professor. A primeira etapa é seguir o roteiro da ATV1 a.
 
 No roteiro da ATV1 a é possível obter as informações para configuração do ambiente de desenvolvimento. Primeiramente é instalado o Ubuntu para utilizar o WSL por meio do Windows PowerShell, e são feitas algumas instalações de ferramentas básicas que serão utilizadas ao longo do curso, como por exemplo o compilador que será utilizado, e as ferramentas de gravação e depuração do código. As ferramentas de código aberto ST-LINK também podem ser utilizadas para gravar e depurar programas desenvolvidos para dispositivos STM32, e serão utilidas no curso. Por fim é instalado o Visual Studio Code, em que será utilizado para fazer a edição do código programado.
